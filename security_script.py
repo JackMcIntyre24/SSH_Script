@@ -1,6 +1,6 @@
 import subprocess
-# Author: Jack McIntyre
-# Date: 2/17/2026
+#
+# Copyright 2026 Jack McIntyre
 #
 # This short program that checks to see if a user has an ssh key
 # and then prompts them to create one if they don't have one
